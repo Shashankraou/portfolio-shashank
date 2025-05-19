@@ -8,7 +8,7 @@ function projetos(section) {
           <h3>VaruNetra - Maritime Situational Awareness System</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/projects/Varun.gif"
+              src="./assets/images/projects/varun.gif"
               alt="GIF of varunnetra."
             />
             <div class="buttons">
